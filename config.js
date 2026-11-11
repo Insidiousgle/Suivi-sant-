@@ -6,7 +6,7 @@
 // =====================================================================
 
 // Supabase > Project Settings > Data API (ou API) : "Project URL"
-export const SUPABASE_URL = 'https://ocnixjyatxptbnlitfnq.supabase.co/rest/v1/';
+export const SUPABASE_URL = 'https://ocnixjyatxptbnlitfnq.supabase.co';
 
 // Supabase > Project Settings > API Keys : la clé "publishable" (sb_publishable_…)
 // ou, à défaut, la clé "anon" de l'onglet "Legacy API keys"
